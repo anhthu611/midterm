@@ -1,20 +1,10 @@
-# midterm
-Thêm kho lưu trữ
-Sau khi bạn đăng ký, hãy nhấp vào nút Thêm kho lưu trữ trên trang Dự án của bạn.
- 
-Điền vào biểu mẫu để định cấu hình môi trường kho lưu trữ của bạn.
- 
-Chọn kho lưu trữ mà bạn muốn bản địa hóa.
-Chọn nhánh (Trường tùy chọn. GitLocalize sẽ sử dụng cái chính theo mặc định).
-Chỉ định Đường dẫn nguồn, tức là thư mục lưu trữ các tệp có thể dịch.
-Chỉ định Đường dẫn đích, nơi GitLocalize sẽ tạo các tệp đã dịch.
-Chọn ngôn ngữ của tệp nguồn.
-Chọn ngôn ngữ đích mà bạn muốn dịch sang.
-Phiên dịch
-Khi kho lưu trữ được thêm thành công, GitLocalize sẽ kéo các tệp đích vào dự án. Quá trình này có thể mất một chút thời gian tùy thuộc vào kích thước kho lưu trữ của bạn và số lượng tệp.
-Sau khi GitLocalize hoàn tất việc kéo các tệp, bạn có thể bắt đầu dịch trong trình chỉnh sửa chế độ xem phân tách. GitLocalize chia nhỏ các tệp thành các phân đoạn có thể dịch được, tự động liên kết bản dịch với phiên bản ở ngôn ngữ nguồn, đánh dấu các phần còn thiếu bản dịch.
- 
-Ôn tập
-Sau khi dịch tệp, hãy nhấp vào nút Tạo Yêu cầu Đánh giá bên cạnh biểu tượng trạng thái. Thao tác này sẽ thông báo cho nhóm của bạn rằng bạn đã hoàn thành và cho phép bạn thảo luận về các cập nhật như bạn thường làm với một yêu cầu kéo.
-Yêu cầu kéo
-Khi nhóm hài lòng với các bản sửa đổi, người kiểm duyệt ngôn ngữ có thể gửi yêu cầu kéo trở lại kho lưu trữ, sau đó có thể hợp nhất ở phía GitHub.
+# THE GULF OF SIAM
+
+I’m not sure why, but I no longer wanted to fly everywhere. I could afford to, but it didn’t seem right, hoping from one place to another, re-joining the commuters and the transcontinental salesmen. I think more than anything else, I didn’t want to be in an airport with London on the screen. It would have been hard at that point, with cash in my hand, not to fly back to the UK. At no point did I consider going back to life how it was, walk back into the office and join the boys in the pub, but I did have a weird urge to watch it all again from the sidelines. Kind of like faking your death and attending your funeral. I wanted to see Anya- to remember her face again. I wanted to attend the launch of one of my projects, listen into conversations about my absence. More than anything I wanted to go back and tell people what I now knew, how I had changed, what I really meant to say to them so many years ago. Too tempting to hear the judgement before the paintings complete. By this point of course I had made some contact- told a few people that I was away, not dead, not insane. Text messages from borrowed phones.
+
+The sanity part was kind of rhetorical, but I needed people to know I was still on the face of the earth so that the feelings I was collecting all belonged to me. You know the thing- when someone dies, they are suddenly the most amazing person in the world. The deceased become beautiful, strong, brave, unique.
+I didn’t want them to have stories to tell about times they spent with me. I didn’t want them to be the one I confided in, the one I slept with, the only ones who truly loved me. I didn’t want people I didn’t give a damn about to use me in their character, their speil, their pulling speech. In the early days of vanishing from London I had been angry that nobody had stopped me, but now, more sober, a little more alive than I had been, I couldn’t imagine anyone stopping me but myself. I just didn’t want people to think I was dead, not yet, not now that life was something I could taste every day. Something I was starting to like.
+
+The ship left the coast at night. I stood in the lobby with everyone else, glass in hand to toast our departure. Buying my ticket the day before we sailed saved me a fortune, but this was still the most expensive purchase I had made so far. The perfect use for the money I made in Bangkok- I planned to spend all of it leaving, recycle it back into the hands it came from. The ship would take just over four days to sail slowly from the coast, straight down through the Gulf of Siam, past Pattaya and the mindless neon resorts, south to the island archipelago of Samui.
+
+There, I planned to wait quietly until someone told me the next step. My obsession with Islands completely fuelled- crossing the ocean by sail, surrounded by water. My company, a mismatch group of tourists, mainly eastern and a crew of two for every soul on board.
